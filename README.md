@@ -1,2 +1,3 @@
 # AI_Applications
-AI 拿來玩一玩
+一服見效的 AI 應用
+
